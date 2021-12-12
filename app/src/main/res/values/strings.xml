@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">finalproject</string>
+    <string name="app_title">ICE.com</string>
+    <string name="button1_welcome">WELCOME</string>
+    <string name="button2_Gallery">GALLERY</string>
+    <string name="button3_Quote">QUOTE</string>
+    <string name="title_activity_location">Location</string>
+</resources>
